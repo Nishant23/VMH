@@ -13,3 +13,4 @@ This is a virtual medical home project.
 7. Admin has the authority to add/delete users, grant permission to doctors and kiosk manager,
    to generate and view reports. He also views the complaints of patients and takes necessary
    actions.
+8. It is a web application.
